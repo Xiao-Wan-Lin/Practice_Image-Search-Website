@@ -1,4 +1,4 @@
-#Image Search Website
+# Image Search Website
 An image search website created with React
 
 # Introduction
